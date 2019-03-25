@@ -21,7 +21,7 @@ import './features/clean-rich-text-editor.css';
 
 import './features/useful-not-found-page';
 import './features/trending-menu-item';
-import './features/hide-useless-newsfeed-events';
+// Import './features/hide-useless-newsfeed-events';
 import './features/more-dropdown';
 import './features/releases-tab';
 import './features/remove-projects-tab';
@@ -75,6 +75,7 @@ import './features/extend-status-labels';
 import './features/highlight-closing-prs-in-open-issues';
 import './features/highlight-own-issues-and-prs';
 import './features/comments-time-machine-links';
+import './features/jump-to-bottom-link';
 import './features/hide-issue-list-autocomplete';
 import './features/esc-to-deselect-line';
 import './features/recently-pushed-branches-enhancements';

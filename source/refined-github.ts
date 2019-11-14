@@ -28,8 +28,8 @@ import './features/align-repository-header.css';
 
 import './features/useful-not-found-page';
 import './features/trending-menu-item';
-import './features/hide-useless-newsfeed-events';
 import './features/align-issue-labels';
+// Import './features/hide-useless-newsfeed-events';
 import './features/more-dropdown';
 import './features/releases-tab';
 import './features/remove-projects-tab';
@@ -82,6 +82,7 @@ import './features/quick-review-buttons';
 import './features/format-conversation-titles';
 import './features/embed-gist-inline';
 import './features/comments-time-machine-links';
+import './features/jump-to-bottom-link';
 import './features/hide-issue-list-autocomplete';
 import './features/esc-to-deselect-line';
 import './features/recently-pushed-branches-enhancements';
